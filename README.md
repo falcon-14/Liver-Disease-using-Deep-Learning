@@ -18,7 +18,7 @@ Liver By Deep Learning is a machine learning project designed to predict liver d
 ## 🚀 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/liver-by-deep-learning.git
+   git clone https://github.com/falcon-14/liver-by-deep-learning.git
    cd liver-by-deep-learning
    ```
 2. Install dependencies:
